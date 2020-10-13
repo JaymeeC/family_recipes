@@ -11,3 +11,7 @@
 - mix everything
 - wait a bit
 - start making pizza
+
+## Pro Tip
+
+- Spin the pizza like a pizzaiolo to look 1000 times cooler (legend says the pizza will also be tastier)
